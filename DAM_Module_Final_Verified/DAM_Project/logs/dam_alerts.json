@@ -1,0 +1,6 @@
+{"timestamp": "2026-03-19 10:43:34", "module": "DAM", "event": "Database Query Detected", "user": "admin", "query": "SELECT * FROM payroll", "severity": "Low"}
+{"timestamp": "2026-03-19 10:43:37", "module": "DAM", "event": "Database Query Detected", "user": "hacker_node", "query": "DROP TABLE users", "severity": "Critical"}
+{"timestamp": "2026-03-19 10:43:40", "module": "DAM", "event": "Database Query Detected", "user": "dev_user", "query": "DELETE FROM logs", "severity": "High"}
+{"timestamp": "2026-03-19 10:57:04", "module": "DAM", "event": "Database Query Detected", "user": "admin", "query": "SELECT * FROM payroll", "severity": "Low"}
+{"timestamp": "2026-03-19 10:57:07", "module": "DAM", "event": "Database Query Detected", "user": "hacker_node", "query": "DROP TABLE users", "severity": "Critical"}
+{"timestamp": "2026-03-19 10:57:10", "module": "DAM", "event": "Database Query Detected", "user": "dev_user", "query": "DELETE FROM logs", "severity": "High"}

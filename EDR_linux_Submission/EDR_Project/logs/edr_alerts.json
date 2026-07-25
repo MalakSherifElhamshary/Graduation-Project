@@ -1,0 +1,3 @@
+{"timestamp": "2026-03-14 23:00:13", "module": "EDR", "event": "Suspicious Activity", "command": "nmap 127.0.0.1", "severity": "Critical"}
+{"timestamp": "2026-03-14 23:00:13", "module": "EDR", "event": "Suspicious Activity", "command": "whoami", "severity": "Critical"}
+{"timestamp": "2026-03-15 07:01:29", "module": "EDR", "event": "Suspicious Command Detected", "command": "nmap 127.0.0.1", "severity": "High"}

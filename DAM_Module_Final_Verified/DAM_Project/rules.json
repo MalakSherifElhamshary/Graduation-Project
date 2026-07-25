@@ -1,0 +1,7 @@
+{
+    "module": "DAM",
+    "monitored_database": "PostgreSQL_Main",
+    "critical_commands": ["DROP", "TRUNCATE", "DELETE", "GRANT"],
+    "alert_level": "Critical",
+    "log_path": "logs/dam_alerts.json"
+}

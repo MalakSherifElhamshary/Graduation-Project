@@ -1,0 +1,15 @@
+{
+    "suspicious_commands": [
+        "nmap", 
+        "nc", 
+        "whoami", 
+        "sudo su", 
+        "chmod 777", 
+        "cat /etc/shadow", 
+        "base64", 
+        "python3 -c",
+        "wget",
+        "curl"
+    ],
+    "log_output": "logs/edr_alerts.json"
+}

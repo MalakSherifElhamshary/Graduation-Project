@@ -1,0 +1,5 @@
+{
+    "monitored_directories": ["./uploads", "./tools"],
+    "alert_level": "High",
+    "backup_enabled": true
+}
