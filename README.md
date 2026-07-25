@@ -111,3 +111,10 @@ Machine Learning-based detection and classification of Cross-Site Scripting atta
 
 ---
 
+## License
+
+Copyright © 2026 Malak Sherif Elhamshary.
+
+All rights reserved.
+
+This project and its source code may not be copied, modified, distributed, or used without explicit permission from the author.
